@@ -1,0 +1,6 @@
+{
+  "name": "Samdania Madrasah",
+  "description": "Official mobile academic and administrative portal for Samdania Talimul Islam Madrasah, Galachipa with dynamic Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
